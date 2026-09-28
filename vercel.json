@@ -12,5 +12,20 @@
       "source": "/:familia/admision/:cupos",
       "destination": "/index.html"
     }
+  ],
+  "headers": [
+    {
+      "source": "/boda-jhon-keyla.ics",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/calendar; charset=utf-8"
+        },
+        {
+          "key": "Content-Disposition",
+          "value": "inline; filename=\"boda-jhon-keyla.ics\""
+        }
+      ]
+    }
   ]
 }
