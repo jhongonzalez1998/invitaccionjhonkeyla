@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jhon y Keyla//Invitacion de boda//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:boda-jhon-keyla-20261107@invitaccionjhonkeyla.vercel.app
+DTSTAMP:20260928T150137Z
+DTSTART:20261107T220000Z
+SUMMARY:Boda de Jhon & Keyla
+LOCATION:Bosque Aventura\, Km 33\, Vía a la Costa
+DESCRIPTION:¡Nos casamos! Te esperamos el 7 de noviembre de 2026 a las 1
+ 7h00 (hora de Ecuador).\nMapa: https://maps.app.goo.gl/P9YLawpXqX1CJmGeA
+ \nInvitación: https://invitaccionjhonkeyla.vercel.app/\nLa hora de fina
+ lización no está especificada.
+URL:https://invitaccionjhonkeyla.vercel.app/
+END:VEVENT
+END:VCALENDAR
